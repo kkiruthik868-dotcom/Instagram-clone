@@ -1,0 +1,48 @@
+{
+    "posts":[
+  {
+    "id": 1,
+    "username": "kiruthik",
+    "profile": "https://i.pravatar.cc/150?img=12",
+    "image": "https://picsum.photos/id/1015/600/600",
+    "caption": "Enjoying the beautiful nature 🌿",
+    "likes": 128,
+    "comments": [
+      {
+        "id": 1,
+        "username": "kumar",
+        "text": "Awesome photo 🔥"
+      },
+      {
+        "id": 2,
+        "username": "rahul",
+        "text": "Beautiful place ❤️"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "kumar",
+    "profile": "https://i.pravatar.cc/150?img=13",
+    "image": "https://picsum.photos/id/1025/600/600",
+    "caption": "Weekend vibes 🐶",
+    "likes": 86,
+    "comments": [
+      {
+        "id": 1,
+        "username": "kiruthik",
+        "text": "Nice one bro!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "rahul",
+    "profile": "https://i.pravatar.cc/150?img=14",
+    "image": "https://picsum.photos/id/1039/600/600",
+    "caption": "Travel and explore 🌍",
+    "likes": 245,
+    "comments": []
+  }
+]
+}
