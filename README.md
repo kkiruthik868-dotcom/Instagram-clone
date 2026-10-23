@@ -1,16 +1,40 @@
-# React + Vite
+# Instagram Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
+This is a practice project inspired by Instagram. I am building it to improve my React frontend development skills.
 
-Currently, two official plugins are available:
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Instagram-inspired sidebar navigation
+- Reusable React components
+- User-friendly interface
 
-## React Compiler
+## How to Run the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Install dependencies:
 
-## Expanding the ESLint configuration
+   ```bash
+   npm install
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in your terminal.
+
+## Learning Goals
+I am using this project to practise React components, styling, navigation, and frontend development.
+
+## Author
+Kiruthik K
